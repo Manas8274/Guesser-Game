@@ -35,6 +35,6 @@ By changing the following variables in the Java code, you may modify the game:
 
 The MIT Licence applies to this project.
 
-- "MIT Licence" The MIT Licence applies to this open-source undertaking. This code may be used, altered, and distributed for both non-commercial and profit uses. For a complete list of terms and conditions, please refer to the [LICENSE](LICENSE) file.
+- "MIT Licence" The MIT Licence applies to this open-source undertaking. This code may be used, altered, and distributed for both non-commercial and profit uses. For a complete list of terms and conditions, please refer to the [LICENSE.txt](LICENSE.txt) file.
 
 
